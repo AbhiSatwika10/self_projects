@@ -1,0 +1,1 @@
+pycache/ *.pyc .env *.egg-info/ /venv/ *.log .DS_Store /postgres_data/
