@@ -1,0 +1,1 @@
+console.log("AI Reality Check Extension Running...");
